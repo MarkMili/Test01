@@ -9,6 +9,7 @@ public class Program
     System.out.println("Vnesite poljubno celo stevilo:");
     String vnesi=prva.readLine();
     Integer stevilo=Integer.decode(prva);
+    int a=5;
     int preveri=stevilo%5;
 
 
