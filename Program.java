@@ -6,7 +6,6 @@ public class Program
     BufferedReader prva=new BufferedReader(new BufferedReader(new inputStreamReader(System.in)));
     System.out.println("Vnesite poljubno celo stevilo:");
     String vnesi=prva.readLine();
-    //static Integer decode(String nm)
     Integer stevilo=Integer.decode(prva);
     int preveri=stevilo%5;
     if (preveri=0)
