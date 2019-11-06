@@ -8,6 +8,10 @@ public class Program
     String vnesi=prva.readLine();
     Integer stevilo=Integer.decode(prva);
     int preveri=stevilo%5;
+
+
+
+
     if (preveri=0)
     {
       System.out.println("To stevilo je veckratnik stevila 5.");
