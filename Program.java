@@ -23,5 +23,6 @@ public class Program
     {
       System.out.println("To stevilo ni veckratnik stevila 5.");
     }
+    System.out.println("Konec naloge");
   }
 }
